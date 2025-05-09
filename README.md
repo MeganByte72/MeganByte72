@@ -13,6 +13,6 @@ I likes coding things for minecraft ^-^
 ![](https://github-contributor-stats.vercel.app/api?username=MeganByte72&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MeganByte72&icon=1&color=10)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=MeganByte72&icon=1&color=10)](https://visitcount.itsvg.in)
 
 ![](https://gifer.com/en/Pak)
