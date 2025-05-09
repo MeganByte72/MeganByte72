@@ -1,6 +1,3 @@
-
-![cin](https://raw.githubusercontent.com/MeganByte72/MeganByte72/refs/heads/main/Pak.gif)
-
 # 💫 About Me:
 I likes coding things for minecraft ^-^
 
