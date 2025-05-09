@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Mes
 I likes coding things for minecraft ^-^
 
 # 💻 Languages i knows ^-^ 
